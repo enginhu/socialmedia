@@ -1,0 +1,21 @@
+#postForm, #groupForm {
+    width: 100%;
+}
+.mycontent {
+  margin-top: 50px;
+}
+.container.mycontent h4 {
+    color: grey;
+}
+.time a{
+  font-size: .8rem;
+  color: grey;
+}
+.post-user-detail {
+    background: #f9f9f9;
+}
+.post.media.post-content {
+    display: flex;
+    justify-content: space-between;
+    background: #F7F7F7;
+}
